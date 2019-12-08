@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-11-08T05:34:53Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Final flipped Schematic model"
+        },
+        "Owner": "Vinay Kumar Tadepalli <vinay.kumar@students.iiit.ac.in>",
+        "Size": {
+            "X": 69,
+            "Y": 51
+        }
+    }
+}
